@@ -1,0 +1,102 @@
+.convenios-container{
+    padding-top: 90px;
+}
+
+.square1{
+    height: auto ;
+    width: 30% ;
+    border-radius: 10px ;
+    background-color: #494ffe;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    color:#ffff;
+    font-size: 37px;
+    text-align: center;
+    line-height: 35px;
+    margin-top: 0;
+    padding-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 430px;
+
+}
+
+.select1{
+    padding-left: 7%;
+    padding-right: 3%;
+    color:#494ffe;
+    font-size: 15px;
+    margin-top: 0;
+    font-size: 15px;
+    font-weight: 600;
+    width: 65%;
+    height: 45px;
+    border: none;
+    margin-bottom: 20px;
+ 
+}
+
+.select2{
+    padding-left: 7%;
+    padding-right: 3%;
+    color:#494ffe;
+    font-size: 15px;
+    margin-top: 0;
+    font-size: 15px;
+    font-weight: 600;
+    width: 65%;
+    height: 45px;
+    border: none;
+    margin-bottom: 30px;
+ 
+}
+
+.Pessoas{
+    font-size: 23px;
+    margin-left: -158px;
+    margin-top: 0;
+}
+
+.Apartir{
+    font-size: 20px;
+    margin-left: -255px;
+    margin-top: 32px;
+
+}
+
+.ValorRedondo{
+    font-size: 79px;
+    margin-top: -44px;
+    margin-left: 4px;
+}
+
+.a:link{
+    background-color: blueviolet;
+    border-radius: 35px;
+    width: 140px;
+    margin-left: 8px;
+    color: #fff;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 45px;
+    padding-left: 45px;
+    font-size: 19px;
+    margin-bottom: 10%;
+    text-decoration: none;
+}
+
+.switch{
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 160px;
+}
+
+.Cifra{
+   
+    margin-top: -1px;
+    margin-left: 150;
+
+}

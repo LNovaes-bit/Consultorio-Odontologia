@@ -1,0 +1,54 @@
+.formulario-container{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 70px;
+    width: 55%;
+}
+
+.title{
+    width: 50% auto;
+    align-self: center;
+}
+
+.formulario{
+    width: 50% auto;
+    align-self: center;
+}
+
+.lista-formulario{
+    list-style: none;
+    text-align: right;
+    border: 1px solid rgb(2, 34, 43);
+    border-radius: 10px;
+    background-color:#1b3675;
+    margin: 15px;
+    padding: 15px;
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.lista-formulario li{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(236, 144, 6);
+}
+
+.lista-formulario li input{
+    width: 170px;
+    padding: 0%;
+    height: 20px;
+}
+
+.lista-formulario li select{
+    width: 172px;
+    height: 20px;
+}
+
+.btn-agenda{
+    color: rgb(250, 150, 1);
+    border: 1px solid rgb ( 16, 123, 194);
+
+}
+
